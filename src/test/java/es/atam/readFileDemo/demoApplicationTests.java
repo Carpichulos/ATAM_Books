@@ -1,4 +1,4 @@
-package es.atam.jwtDemo;
+package es.atam.readFileDemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class JwtDemoApplicationTests {
+public class demoApplicationTests {
 
 	@Test
 	public void contextLoads() {
